@@ -6,5 +6,5 @@ excerpt: 'Recent studies point out that VQA models tend to rely on the language 
 date: 2023-02-02
 venue: 'February 2'
 ---
-[Download paper here](1-s2.0-S030645732300033X-main.pdf](https://github.com/LemonQC/lemonqc.github.io/blob/master/_publications/1-s2.0-S030645732300033X-main.pdf)
+[Download paper here](https://github.com/LemonQC/lemonqc.github.io/blob/master/_publications/1-s2.0-S030645732300033X-main.pdf)
 
